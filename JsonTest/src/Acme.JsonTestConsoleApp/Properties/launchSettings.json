@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Acme.JsonTestConsoleApp": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
